@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Ayush-Singh-Code/Ayush-Singh-Code/main/wave.gif?token=AQXR3LD6VE6ZDCB3Q5E4CETBPVDF6" width="30px">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Flask
