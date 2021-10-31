@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 # नमस्ते 🙏🏻, This is Ayush Kumar Singh! 
 
 
