@@ -1,12 +1,12 @@
 # नमस्ते 🙏🏻, This is Ayush Kumar Singh! 
 
 
-Software Devloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayush-singh-code.ayush-singh-code)
 ![Follower](https://img.shields.io/github/followers/Ayush-Singh-Code?style=social)
 
-## 🔧 Technologies & Tools
+## 💻 Technologies & Tools
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -28,10 +28,13 @@ Software Devloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh-code&hide=javascript,scss&theme=dark)
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-singh-code&count_private=true&show_icons=true&theme=dark)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+
+
+<a href="https://github.com/ayush-singh-code/Project-Math">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-singh-code&repo=Project-Math&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ayush-singh-code/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-singh-code&repo=calculator&theme=dark" />
 </a>
 
