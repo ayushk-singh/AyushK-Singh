@@ -25,7 +25,13 @@ Software Devloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 ## 📈 Github Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-singh-code&count_private=true&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh-code&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh-code&hide=javascript,scss&theme=dark)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-singh-code&count_private=true&show_icons=true&theme=dark)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-singh-code&repo=Project-Math&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-singh-code&repo=calculator&theme=dark" />
+</a>
 
