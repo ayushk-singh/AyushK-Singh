@@ -4,8 +4,7 @@
 
 
 Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ayush-singh-code.ayush-singh-code) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ayush-singh-code.ayush-singh-code)
 ![Follower](https://img.shields.io/github/followers/Ayush-Singh-Code?style=social)
 
 ## 💻 Technologies & Tools
