@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [aayushsingh.code@gmail.com](mailto:aayushsingh.code@gmail.com)
+* ✉️  You can contact me at [ayush@softwareguy.xyz](mailto:ayush@softwareguy.xyz)
 
 ### Skills
 
