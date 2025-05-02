@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [ticketly](https://ticketly.me)
 
-- 👨‍💻 All of my projects are available at [softwareguy.xyz](softwareguy.xyz)
+- 👨‍💻 All of my projects are available at [softwareguy.xyz](https://softwareguy.xyz)
 
-- 📝 I regularly write articles on [blog.softwareguy.xyz](blog.softwareguy.xyz)
+- 📝 I regularly write articles on [blog.softwareguy.xyz](https://blog.softwareguy.xyz)
 
 - 📫 How to reach me **ayush@softwareguy.xyz**
 
