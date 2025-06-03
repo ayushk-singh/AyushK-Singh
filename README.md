@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Software Developer, Graphic Designer, and Photographer — Creating with code, visuals, and vision.</h3>
+<h3 align="center">Fullstack Developer, Designer, and Photographer — Creating with code, visuals, and vision.</h3>
 
 - 🔭 I’m currently working on [ticketly](https://ticketly.me)
 
