@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Fullstack Developer, Designer, and Photographer — Creating with code, visuals, and vision.</h3>
-
-- 🔭 I’m currently working on [ticketly](https://ticketly.me)
+<h3 align="center">Fullstack Developer & Designer — Crafting seamless digital experiences with code, graphics, and UI/UX design.</h3>
 
 - 👨‍💻 All of my projects are available at [softwareguy.xyz](https://softwareguy.xyz)
 
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imayushksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imayushksingh" height="30" width="40" /></a>
+<a href="https://twitter.com/softwareguy_xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imayushksingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kumarayushsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarayushsingh" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ayushksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ayushksingh" height="30" width="40" /></a>
 </p>
